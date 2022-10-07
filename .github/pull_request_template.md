@@ -1,3 +1,5 @@
+@excellence-arch
+
 # What issue does your pull request solve
 > *Ex. Closes #58*
 

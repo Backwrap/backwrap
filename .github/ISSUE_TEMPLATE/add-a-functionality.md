@@ -1,13 +1,10 @@
 ---
-name: Add am App
-about: App addition
+name: Add a Functionality
+about: Functionality
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the app here**
-> *The description of the app here*
-
-**Are you willing to build the app?**
+**Describe the issue here**
